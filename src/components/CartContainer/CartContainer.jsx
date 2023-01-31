@@ -36,18 +36,13 @@ function CartContainer(){
         }
     }
 
-    if(orderId){ 
-        let totalPrice = getTotalPriceInCart();
-        let newCart = [];
-        setCart(newCart);
-        localStorage.setItem("cart", JSON.stringify(newCart)); 
+    if(orderId){
         return (
-            <div className="container mt-5">
+            <div className="container mt-5" style={{minHeight: "300px"}}>
                 <h1>Thanks for your purchase</h1>
-                <p className="fw-semibold fs-5">Date of your purchase:</p>
                 <p><b>Purchase ID:</b> {orderId}</p>
-                <p><b>Name: </b>{user}</p>
-                <p><b>Total Price:</b> ${totalPrice}</p>
+                {setCart([])}
+                {localStorage.setItem("cart", JSON.stringify([]))}
             </div>
         );
     }
