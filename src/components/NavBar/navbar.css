@@ -1,0 +1,77 @@
+.header-menu{
+    background: rgb(37, 200, 229);
+    color: #0000;
+    padding-bottom: 7px;
+}
+.nav-list{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #0000;
+}
+.btn-search{
+    background-color: rgb(251, 166, 63);
+}
+.btn-search:hover{
+    cursor: initial;
+    background-color: rgb(255, 128, 0);
+}
+.btn-logout{
+    background-color: rgb(251, 166, 63);
+}
+.btn-logout:hover{
+    background-color: rgb(255, 128, 0);
+}
+.input-group{
+    width: 50%;
+}
+.input-group button{
+    font-size: 16px;
+}
+.navbar-brand{
+    font-size: 1.8rem;
+    padding: 0;
+}
+.navbar-nav li{
+    font-size: 1.1rem;
+}
+.cart{
+    height: 45px;
+}
+
+.logo{
+    color: #000000;
+}
+
+.box-search{
+    position: absolute;
+    top: 38px;
+    width: 100%;
+    z-index: 99;
+}
+.dropdown-categories{
+    display: none;
+}
+@media (max-width: 768px) {
+    .logo{
+        display: none;
+    }
+    .cart-text{
+        display: none;
+    }
+    .category-link{
+        display: none;
+    }
+    .dropdown-categories{
+        display: initial;
+    }
+}
+@media (max-width: 375px) {
+    .lupe{
+        display: none;
+    }
+    .btn-search{
+        display: none;
+    }
+}

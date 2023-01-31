@@ -1,0 +1,20 @@
+.card-slider{
+    min-height: 450px;
+    margin: 0 5px;
+}
+.card-slider:hover{
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.639);
+}
+.card-slider img {
+    transition: 0.5s;
+}
+.card-slider:hover img {
+    transform: scale(1.07);
+    transition: 0.5s;
+}
+.btn-see-more{
+    background-color: rgb(253, 151, 27);
+}
+.btn-see-more:hover{
+    background-color: rgb(255, 128, 0);
+}

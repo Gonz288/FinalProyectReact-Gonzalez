@@ -1,0 +1,11 @@
+.text-price{
+    color: rgb(0, 185, 86);
+    font-size: 27px;
+}
+.container-itemDetail{
+    margin-top: 75px;
+    max-width: 1200px;
+}
+.card{
+    padding: 25px;
+}

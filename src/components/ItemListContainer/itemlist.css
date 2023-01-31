@@ -1,0 +1,15 @@
+.card-item{
+    min-height: 420px;
+}
+.div-category{
+    background: rgb(39, 210, 241);
+    padding: 10px 0;
+    margin-bottom: 30px;
+    color: rgb(56, 56, 56);
+}
+.container-itemlist{
+    padding: 0 50px;
+}
+.card{
+    padding: 10px;
+}

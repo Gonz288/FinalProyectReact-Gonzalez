@@ -1,0 +1,37 @@
+.btn-substract,.btn-add,.btn-addToCart{
+    border: none;
+    font-size: 22px;
+    border-radius: 5px;
+    margin: 0 10px;
+}
+.btn-add{
+    color: green;
+    border: 1px solid green;
+}
+.btn-substract{
+    color: red;
+    border: 1px solid red;
+}
+.btn-addToCart{
+    background-color: rgb(0, 136, 255);
+    color: #fff;
+    padding: 3px 15px;
+}
+.btn-substract:hover{
+    background-color: red;
+    cursor: pointer;
+    color: #fff;
+}
+.btn-add:hover{
+    background-color: green;
+    cursor: pointer;
+    color: #fff;
+}
+.btn-addToCart:hover{
+    background-color: rgb(0, 136, 255);
+    color: black;
+}
+
+h4{
+    display: inline-block;
+}
