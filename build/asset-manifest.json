@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/FinalProyectReact-Gonzalez/static/css/main.6be1d0c4.css",
+    "main.js": "/FinalProyectReact-Gonzalez/static/js/main.bed7921a.js",
+    "static/js/787.319676fc.chunk.js": "/FinalProyectReact-Gonzalez/static/js/787.319676fc.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/FinalProyectReact-Gonzalez/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
+    "static/media/bootstrap-icons.woff2?": "/FinalProyectReact-Gonzalez/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
+    "static/media/revicons.eot": "/FinalProyectReact-Gonzalez/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/FinalProyectReact-Gonzalez/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/FinalProyectReact-Gonzalez/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/FinalProyectReact-Gonzalez/index.html",
+    "main.6be1d0c4.css.map": "/FinalProyectReact-Gonzalez/static/css/main.6be1d0c4.css.map",
+    "main.bed7921a.js.map": "/FinalProyectReact-Gonzalez/static/js/main.bed7921a.js.map",
+    "787.319676fc.chunk.js.map": "/FinalProyectReact-Gonzalez/static/js/787.319676fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6be1d0c4.css",
+    "static/js/main.bed7921a.js"
+  ]
+}
