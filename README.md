@@ -1,4 +1,5 @@
-![migif](https://user-images.githubusercontent.com/111772830/215659125-aafe007e-2800-472a-94ab-db01bba6f97d.gif)
+![migif](https://user-images.githubusercontent.com/111772830/215667357-f83d149b-993b-4e30-bd2c-ee2c8717262b.gif)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
